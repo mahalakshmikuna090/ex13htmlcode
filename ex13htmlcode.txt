@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title> my resume </title>
+        <body> 
+            <h1 align="center"> KUNA MAHA LAKSHMI</h1>
+            <a><h4> EMAIL:mahalakshmikuna2005@gmail.com</h4></a>
+            <a><h4> Mobile.no: 6598389738</h4></a><hr>
+            <h1> <i> OBJECTIVE</i></h1></font>
+            <p>   "Seeking an opportunity to begin a career in cloud computing and develop practical experience in cloud platforms and technologies."
+
+</p><hr>
+            <h1> <i>ACADEMIC DETAILS</i></h1>
+            <table   border="5" width="700" heigth="700" cellpadding="5" cellspacing="10"> 
+            <tr><th>education qualification</th><th>institute name</th><th>year of passing</ths></tr>
+            <tr><td>ssc</td><td>vikas english medium school,rcpm</td><td>2020</td></tr>
+            <tr><td>inter</td><td> Aditya junior college,mdt</td><td>2023</td></tr>
+            <tr><td>degree</td><td> Aditya degree college for women,kkd</td><td>2026</td></tr>
+            </table><hr>
+            <h1><i>SKILLS</i></h1>
+            <ul type="circle">
+                <li>Ms Azure</li>
+                <li>python</li>
+                <li>c language</li>
+                <li>Java</li>
+                <li>Ms excel </li>
+
+            </ul><hr>
+            
+            <h1><i> DECLARATION </i></h1>
+            <P>I hereby declare that all the information provided above is true and correct to the best of my knowledge.</P>
+            </body>
+    </head>
+</html>
